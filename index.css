@@ -1,0 +1,86 @@
+.button_main {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: Nunito;
+    text-decoration: none;
+    border: 2px solid rgb(39, 39, 39);
+    border-radius: 20px;
+    transition-duration: .2s;
+    -webkit-transition-duration: .2s;
+    -moz-transition-duration: .2s;
+    background-color:rgb(39, 39, 39);
+    padding: 4px 30px;
+  }
+  
+  .button_main:hover {
+    color:rgb(39, 39, 39);
+    background-color: white;
+    transition-duration: .2s;
+    -webkit-transition-duration: .2s;
+    -moz-transition-duration: .2s;
+  }
+
+  .table_main{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: Nunito;
+    text-decoration: none;
+    border: 2px solid rgb(39, 39, 39);
+    border-radius: 20px;
+    transition-duration: .2s;
+    -webkit-transition-duration: .2s;
+    -moz-transition-duration: .2s;
+    background-color:rgb(39, 39, 39);
+    padding: 4px 30px;
+    border-color: white;
+  }
+
+  .div_main{
+    color: rgb(39, 39, 39);
+    font-size: 20px;
+    font-family: Nunito;
+    text-decoration: none;
+    border: 2px solid rgb(39, 39, 39);
+    border-radius: 20px;
+    transition-duration: .2s;
+    -webkit-transition-duration: .2s;
+    -moz-transition-duration: .2s;
+    background-color:rgb(255, 255, 255);
+    padding: 4px 30px;
+    border-color: rgb(39, 39, 39);
+    width: 30%;
+  }
+
+  .div_history{
+    color: rgb(39, 39, 39);
+    font-size: 20px;
+    font-family: Nunito;
+    text-decoration: none;
+    border: 2px solid rgb(39, 39, 39);
+    border-radius: 20px;
+    transition-duration: .2s;
+    -webkit-transition-duration: .2s;
+    -moz-transition-duration: .2s;
+    background-color:rgb(255, 255, 255);
+    padding: 4px 30px;
+    border-color: rgb(39, 39, 39);
+    width: 40%;
+    height: 40%;
+  }
+
+  .div_aut{
+    color: rgb(39, 39, 39);
+    font-size: 20px;
+    font-family: Nunito;
+    text-decoration: none;
+    border: 2px solid rgb(39, 39, 39);
+    border-radius: 20px;
+    transition-duration: .2s;
+    -webkit-transition-duration: .2s;
+    -moz-transition-duration: .2s;
+    background-color:rgb(255, 255, 255);
+    padding: 4px 30px;
+    border-color: rgb(39, 39, 39);
+    width: 20%;
+    height: 40%;
+  }
